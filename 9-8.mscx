@@ -590,15 +590,65 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="10">
-      <Rest>
-        <dots>1</dots>
-        <durationType>half</durationType>
-        </Rest>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>62</pitch>
+          <pitch>74</pitch>
+          <tpc>16</tpc>
+          <Tie>
+            </Tie>
+          </Note>
+        </Chord>
+      <Beam id="28">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>28</Beam>
+        <Note>
+          <pitch>74</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>28</Beam>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>28</Beam>
+        <Note>
+          <pitch>77</pitch>
+          <tpc>13</tpc>
+          </Note>
+        </Chord>
+      <Beam id="26">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>26</Beam>
+        <Note>
+          <pitch>77</pitch>
+          <tpc>13</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>26</Beam>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>26</Beam>
+        <Note>
+          <pitch>74</pitch>
           <tpc>16</tpc>
           </Note>
         </Chord>
@@ -608,38 +658,28 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
+          <pitch>74</pitch>
+          <tpc>16</tpc>
           </Note>
         </Chord>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
-          <Tie>
-            </Tie>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
-      <Beam id="10">
-        </Beam>
+      <Rest>
+        <dots>1</dots>
+        <durationType>eighth</durationType>
+        </Rest>
       <Chord>
         <dots>1</dots>
         <durationType>eighth</durationType>
-        <Beam>10</Beam>
         <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>eighth</durationType>
-        <Beam>10</Beam>
-        <Note>
-          <pitch>74</pitch>
-          <tpc>16</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -648,38 +688,62 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>74</pitch>
-          <tpc>16</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
           <Tie>
             </Tie>
           </Note>
         </Chord>
-      <Beam id="11">
+      <Beam id="30">
         </Beam>
       <Chord>
-        <dots>1</dots>
         <durationType>eighth</durationType>
-        <Beam>11</Beam>
+        <Beam>30</Beam>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
         <durationType>eighth</durationType>
-        <Beam>11</Beam>
+        <Beam>30</Beam>
         <Note>
-          <pitch>69</pitch>
-          <tpc>17</tpc>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>30</Beam>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Beam id="29">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>29</Beam>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>29</Beam>
+        <Note>
+          <pitch>74</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>29</Beam>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -688,8 +752,8 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -698,28 +762,14 @@ p, li { white-space: pre-wrap; }
         <Note>
           <pitch>74</pitch>
           <tpc>16</tpc>
-          <Tie>
-            </Tie>
-          </Note>
-        </Chord>
-      <Beam id="12">
-        </Beam>
-      <Chord>
-        <dots>1</dots>
-        <durationType>eighth</durationType>
-        <Beam>12</Beam>
-        <Note>
-          <pitch>74</pitch>
-          <tpc>16</tpc>
           </Note>
         </Chord>
       <Chord>
         <dots>1</dots>
-        <durationType>eighth</durationType>
-        <Beam>12</Beam>
+        <durationType>quarter</durationType>
         <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
+          <pitch>70</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -728,28 +778,82 @@ p, li { white-space: pre-wrap; }
         <style>17</style>
         <subtype>MeasureNumber</subtype>
         </Text>
+      <Beam id="31">
+        </Beam>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>31</Beam>
         <Note>
           <pitch>70</pitch>
           <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>31</Beam>
         <Note>
           <pitch>69</pitch>
           <tpc>17</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>31</Beam>
+        <Note>
+          <pitch>70</pitch>
+          <tpc>12</tpc>
+          </Note>
+        </Chord>
+      <Beam id="32">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>32</Beam>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>32</Beam>
+        <Note>
+          <pitch>70</pitch>
+          <tpc>12</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>32</Beam>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Beam id="33">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>33</Beam>
+        <Note>
+          <pitch>74</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>33</Beam>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>33</Beam>
+        <Note>
+          <pitch>77</pitch>
+          <tpc>13</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -758,129 +862,102 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
+          <pitch>77</pitch>
+          <tpc>13</tpc>
           </Note>
         </Chord>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>74</pitch>
-          <tpc>16</tpc>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
           </Note>
         </Chord>
-      <Beam id="13">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>13</Beam>
-        <Note>
-          <pitch>69</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>13</Beam>
-        <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>13</Beam>
-        <Note>
-          <pitch>69</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
+      <Rest>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        </Rest>
       </Measure>
     <Measure number="16">
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
+          <pitch>69</pitch>
+          <tpc>17</tpc>
+          <Tie>
+            </Tie>
           </Note>
         </Chord>
-      <Beam id="14">
+      <Beam id="34">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>14</Beam>
-        <Note>
-          <pitch>66</pitch>
-          <tpc>20</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>14</Beam>
-        <Note>
-          <pitch>64</pitch>
-          <tpc>18</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>14</Beam>
-        <Note>
-          <pitch>66</pitch>
-          <tpc>20</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="17">
-      <Chord>
-        <durationType>quarter</durationType>
+        <Beam>34</Beam>
         <Note>
           <pitch>69</pitch>
           <tpc>17</tpc>
           </Note>
         </Chord>
-      <Beam id="15">
-        </Beam>
       <Chord>
-        <durationType>16th</durationType>
-        <Beam>15</Beam>
+        <durationType>eighth</durationType>
+        <Beam>34</Beam>
         <Note>
           <pitch>70</pitch>
           <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
-        <durationType>16th</durationType>
-        <Beam>15</Beam>
+        <durationType>eighth</durationType>
+        <Beam>34</Beam>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Beam id="35">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>35</Beam>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>35</Beam>
         <Note>
           <pitch>70</pitch>
           <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
+        <durationType>eighth</durationType>
+        <Beam>35</Beam>
+        <Note>
+          <pitch>69</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="17">
+      <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
           <pitch>67</pitch>
           <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <dots>1</dots>
+        <durationType>half</durationType>
+        <Note>
+          <pitch>66</pitch>
+          <tpc>20</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -889,52 +966,17 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <selected>1</selected>
-          <pitch>66</pitch>
-          <tpc>20</tpc>
-          <Tie>
-            </Tie>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>66</pitch>
-          <tpc>20</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>69</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="19">
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
           <pitch>62</pitch>
           <tpc>16</tpc>
           <Tie>
             </Tie>
           </Note>
         </Chord>
-      <Beam id="16">
+      <Beam id="10">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>16</Beam>
+        <Beam>10</Beam>
         <Note>
           <pitch>62</pitch>
           <tpc>16</tpc>
@@ -942,7 +984,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>16</Beam>
+        <Beam>10</Beam>
         <Note>
           <pitch>60</pitch>
           <tpc>14</tpc>
@@ -950,7 +992,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>16</Beam>
+        <Beam>10</Beam>
         <Note>
           <pitch>63</pitch>
           <tpc>11</tpc>
@@ -971,11 +1013,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="20">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
+    <Measure number="19">
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -1007,12 +1045,16 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="21">
-      <Beam id="17">
+    <Measure number="20">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
+      <Beam id="11">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>17</Beam>
+        <Beam>11</Beam>
         <Note>
           <pitch>67</pitch>
           <tpc>15</tpc>
@@ -1020,7 +1062,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>17</Beam>
+        <Beam>11</Beam>
         <Note>
           <pitch>69</pitch>
           <tpc>17</tpc>
@@ -1028,7 +1070,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>17</Beam>
+        <Beam>11</Beam>
         <Note>
           <pitch>67</pitch>
           <tpc>15</tpc>
@@ -1036,7 +1078,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>17</Beam>
+        <Beam>11</Beam>
         <Note>
           <pitch>66</pitch>
           <tpc>20</tpc>
@@ -1044,7 +1086,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>17</Beam>
+        <Beam>11</Beam>
         <Note>
           <pitch>67</pitch>
           <tpc>15</tpc>
@@ -1079,7 +1121,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="22">
+    <Measure number="21">
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -1105,12 +1147,12 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="23">
-      <Beam id="18">
+    <Measure number="22">
+      <Beam id="12">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>18</Beam>
+        <Beam>12</Beam>
         <Note>
           <pitch>63</pitch>
           <tpc>11</tpc>
@@ -1118,7 +1160,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>18</Beam>
+        <Beam>12</Beam>
         <Note>
           <pitch>65</pitch>
           <tpc>13</tpc>
@@ -1126,7 +1168,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>18</Beam>
+        <Beam>12</Beam>
         <Note>
           <pitch>63</pitch>
           <tpc>11</tpc>
@@ -1134,7 +1176,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>18</Beam>
+        <Beam>12</Beam>
         <Note>
           <pitch>62</pitch>
           <tpc>16</tpc>
@@ -1142,7 +1184,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>18</Beam>
+        <Beam>12</Beam>
         <Note>
           <pitch>63</pitch>
           <tpc>11</tpc>
@@ -1177,20 +1219,20 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="24">
-      <Beam id="19">
+    <Measure number="23">
+      <Beam id="13">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>19</Beam>
+        <Beam>13</Beam>
         <Note>
-          <pitch>71</pitch>
-          <tpc>19</tpc>
+          <pitch>70</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>19</Beam>
+        <Beam>13</Beam>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
@@ -1198,7 +1240,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>19</Beam>
+        <Beam>13</Beam>
         <Note>
           <pitch>74</pitch>
           <tpc>16</tpc>
@@ -1211,11 +1253,11 @@ p, li { white-space: pre-wrap; }
           <tpc>16</tpc>
           </Note>
         </Chord>
-      <Beam id="20">
+      <Beam id="14">
         </Beam>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>20</Beam>
+        <Beam>14</Beam>
         <Note>
           <pitch>73</pitch>
           <tpc>21</tpc>
@@ -1223,7 +1265,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>20</Beam>
+        <Beam>14</Beam>
         <Note>
           <pitch>74</pitch>
           <tpc>16</tpc>
@@ -1241,6 +1283,56 @@ p, li { white-space: pre-wrap; }
         <Note>
           <pitch>74</pitch>
           <tpc>16</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="24">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>74</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>70</pitch>
+          <tpc>12</tpc>
+          </Note>
+        </Chord>
+      <Beam id="15">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>15</Beam>
+        <Note>
+          <pitch>67</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>15</Beam>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>15</Beam>
+        <Note>
+          <pitch>70</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -1252,56 +1344,6 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>74</pitch>
-          <tpc>16</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
-          </Note>
-        </Chord>
-      <Beam id="21">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>21</Beam>
-        <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>21</Beam>
-        <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>21</Beam>
-        <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="26">
-      <Chord>
-        <durationType>quarter</durationType>
-        <Note>
           <pitch>70</pitch>
           <tpc>12</tpc>
           </Note>
@@ -1326,12 +1368,12 @@ p, li { white-space: pre-wrap; }
         <durationType>quarter</durationType>
         </Rest>
       </Measure>
-    <Measure number="27">
+    <Measure number="26">
       <Rest>
         <durationType>measure</durationType>
         </Rest>
       </Measure>
-    <Measure number="28">
+    <Measure number="27">
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -1339,11 +1381,11 @@ p, li { white-space: pre-wrap; }
           <tpc>13</tpc>
           </Note>
         </Chord>
-      <Beam id="22">
+      <Beam id="16">
         </Beam>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>22</Beam>
+        <Beam>16</Beam>
         <Note>
           <pitch>76</pitch>
           <tpc>18</tpc>
@@ -1351,17 +1393,17 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>22</Beam>
+        <Beam>16</Beam>
         <Note>
           <pitch>79</pitch>
           <tpc>15</tpc>
           </Note>
         </Chord>
-      <Beam id="23">
+      <Beam id="17">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>23</Beam>
+        <Beam>17</Beam>
         <Note>
           <pitch>77</pitch>
           <tpc>13</tpc>
@@ -1369,7 +1411,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>23</Beam>
+        <Beam>17</Beam>
         <Note>
           <pitch>75</pitch>
           <tpc>11</tpc>
@@ -1377,17 +1419,17 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>23</Beam>
+        <Beam>17</Beam>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
           </Note>
         </Chord>
-      <Beam id="24">
+      <Beam id="18">
         </Beam>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>24</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>69</pitch>
           <tpc>17</tpc>
@@ -1395,7 +1437,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>24</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>66</pitch>
           <tpc>8</tpc>
@@ -1405,7 +1447,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>24</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>66</pitch>
           <tpc>8</tpc>
@@ -1413,7 +1455,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>24</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>66</pitch>
           <tpc>8</tpc>
@@ -1421,7 +1463,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>24</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>67</pitch>
           <tpc>15</tpc>
@@ -1429,12 +1471,17 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>24</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>69</pitch>
           <tpc>17</tpc>
           </Note>
         </Chord>
+      </Measure>
+    <Measure number="28">
+      <Rest>
+        <durationType>measure</durationType>
+        </Rest>
       </Measure>
     <Measure number="29">
       <Rest>
@@ -1482,10 +1529,6 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="38">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Rest>
         <durationType>measure</durationType>
         </Rest>
@@ -1496,6 +1539,10 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="40">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Rest>
         <durationType>measure</durationType>
         </Rest>
@@ -1596,10 +1643,6 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="60">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Rest>
         <durationType>measure</durationType>
         </Rest>
@@ -1610,16 +1653,15 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="62">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Rest>
         <durationType>measure</durationType>
         </Rest>
       </Measure>
     <Measure number="63">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
-      </Measure>
-    <Measure number="64">
       <Rest>
         <durationType>measure</durationType>
         </Rest>
@@ -1845,44 +1887,98 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="10">
-      <Rest>
-        <durationType>whole</durationType>
-        </Rest>
-      <Rest>
-        <durationType>eighth</durationType>
-        </Rest>
-      </Measure>
-    <Measure number="11">
-      <Rest>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        </Rest>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>43</pitch>
-          <tpc>15</tpc>
+          <pitch>46</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
-      <Beam id="25">
-        </Beam>
       <Chord>
         <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>12</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>57</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
         <durationType>eighth</durationType>
-        <Beam>25</Beam>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>12</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="11">
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>53</pitch>
+          <tpc>13</tpc>
+          <Tie>
+            </Tie>
+          </Note>
+        </Chord>
+      <Beam id="19">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>19</Beam>
+        <Note>
+          <pitch>53</pitch>
+          <tpc>13</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>19</Beam>
         <Note>
           <pitch>55</pitch>
           <tpc>15</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
         <durationType>eighth</durationType>
-        <Beam>25</Beam>
+        <Beam>19</Beam>
+        <Note>
+          <pitch>51</pitch>
+          <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Beam id="27">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>27</Beam>
+        <Note>
+          <pitch>48</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>27</Beam>
         <Note>
           <pitch>53</pitch>
           <tpc>13</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>27</Beam>
+        <Note>
+          <pitch>45</pitch>
+          <tpc>17</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -1893,63 +1989,72 @@ p, li { white-space: pre-wrap; }
         <Note>
           <pitch>51</pitch>
           <tpc>11</tpc>
-          <Tie>
-            </Tie>
           </Note>
         </Chord>
-      <Beam id="26">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>26</Beam>
-        <Note>
-          <pitch>51</pitch>
-          <tpc>11</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>26</Beam>
-        <Note>
-          <pitch>50</pitch>
-          <tpc>16</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>26</Beam>
-        <Note>
-          <pitch>51</pitch>
-          <tpc>11</tpc>
-          </Note>
-        </Chord>
-      <Beam id="27">
-        </Beam>
       <Chord>
         <dots>1</dots>
-        <durationType>eighth</durationType>
-        <Beam>27</Beam>
+        <durationType>quarter</durationType>
         <Note>
           <pitch>48</pitch>
           <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>53</pitch>
+          <tpc>13</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Note>
+          <pitch>45</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="13">
+      <Chord>
+        <dots>1</dots>
+        <durationType>half</durationType>
+        <Note>
+          <pitch>46</pitch>
+          <tpc>12</tpc>
+          </Note>
+        </Chord>
+      <Rest>
         <dots>1</dots>
         <durationType>eighth</durationType>
-        <Beam>27</Beam>
+        </Rest>
+      <Chord>
+        <dots>1</dots>
+        <durationType>eighth</durationType>
+        <Note>
+          <pitch>50</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="14">
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>55</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
         <Note>
           <pitch>42</pitch>
           <tpc>20</tpc>
           </Note>
         </Chord>
-      </Measure>
-    <Measure number="13">
-      <Beam id="28">
-        </Beam>
       <Chord>
-        <durationType>eighth</durationType>
-        <Beam>28</Beam>
+        <durationType>quarter</durationType>
         <Note>
           <pitch>43</pitch>
           <tpc>15</tpc>
@@ -1957,64 +2062,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>28</Beam>
         <Note>
-          <pitch>45</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>28</Beam>
-        <Note>
-          <pitch>46</pitch>
-          <tpc>12</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>48</pitch>
-          <tpc>14</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>49</pitch>
-          <tpc>21</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="14">
-      <Chord>
-        <dots>1</dots>
-        <durationType>half</durationType>
-        <Note>
-          <pitch>50</pitch>
-          <tpc>16</tpc>
-          </Note>
-        </Chord>
-      <Beam id="29">
-        </Beam>
-      <Chord>
-        <dots>1</dots>
-        <durationType>eighth</durationType>
-        <Beam>29</Beam>
-        <Note>
-          <pitch>48</pitch>
-          <tpc>14</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>eighth</durationType>
-        <Beam>29</Beam>
-        <Note>
-          <pitch>46</pitch>
-          <tpc>12</tpc>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -2023,24 +2073,62 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>45</pitch>
-          <tpc>17</tpc>
+          <pitch>60</pitch>
+          <tpc>14</tpc>
+          <Tie>
+            </Tie>
+          </Note>
+        </Chord>
+      <Beam id="36">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>36</Beam>
+        <Note>
+          <pitch>60</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>36</Beam>
         <Note>
-          <pitch>42</pitch>
-          <tpc>20</tpc>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
           </Note>
         </Chord>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>36</Beam>
         <Note>
-          <pitch>54</pitch>
-          <tpc>20</tpc>
+          <pitch>60</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Beam id="37">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>37</Beam>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>37</Beam>
+        <Note>
+          <pitch>62</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>37</Beam>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -2049,8 +2137,8 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>55</pitch>
-          <tpc>15</tpc>
+          <pitch>62</pitch>
+          <tpc>16</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -2061,12 +2149,30 @@ p, li { white-space: pre-wrap; }
           <tpc>16</tpc>
           </Note>
         </Chord>
+      <Beam id="20">
+        </Beam>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        <Beam>20</Beam>
         <Note>
           <pitch>51</pitch>
           <tpc>11</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>20</Beam>
+        <Note>
+          <pitch>50</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>20</Beam>
+        <Note>
+          <pitch>48</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -2075,79 +2181,33 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>48</pitch>
-          <tpc>14</tpc>
+          <pitch>50</pitch>
+          <tpc>16</tpc>
           </Note>
         </Chord>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>50</pitch>
-          <tpc>16</tpc>
-          </Note>
-        </Chord>
-      <Beam id="30">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>30</Beam>
-        <Note>
-          <pitch>51</pitch>
-          <tpc>11</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>30</Beam>
-        <Note>
-          <pitch>50</pitch>
+          <pitch>38</pitch>
           <tpc>16</tpc>
           </Note>
         </Chord>
       <Chord>
-        <durationType>eighth</durationType>
-        <Beam>30</Beam>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
         <Note>
-          <pitch>48</pitch>
-          <tpc>14</tpc>
-          <Tie>
-            </Tie>
+          <pitch>45</pitch>
+          <tpc>17</tpc>
           </Note>
         </Chord>
       </Measure>
     <Measure number="18">
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>48</pitch>
-          <tpc>14</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>50</pitch>
-          <tpc>16</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>42</pitch>
-          <tpc>20</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="19">
-      <Beam id="31">
+      <Beam id="21">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>31</Beam>
+        <Beam>21</Beam>
         <Note>
           <pitch>43</pitch>
           <tpc>15</tpc>
@@ -2155,7 +2215,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>31</Beam>
+        <Beam>21</Beam>
         <Note>
           <pitch>50</pitch>
           <tpc>16</tpc>
@@ -2163,7 +2223,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>31</Beam>
+        <Beam>21</Beam>
         <Note>
           <pitch>58</pitch>
           <tpc>12</tpc>
@@ -2186,12 +2246,12 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="20">
-      <Beam id="32">
+    <Measure number="19">
+      <Beam id="22">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>32</Beam>
+        <Beam>22</Beam>
         <Note>
           <pitch>41</pitch>
           <tpc>13</tpc>
@@ -2199,7 +2259,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>32</Beam>
+        <Beam>22</Beam>
         <Note>
           <pitch>57</pitch>
           <tpc>17</tpc>
@@ -2207,7 +2267,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>32</Beam>
+        <Beam>22</Beam>
         <Note>
           <pitch>53</pitch>
           <tpc>13</tpc>
@@ -2242,7 +2302,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="21">
+    <Measure number="20">
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -2257,11 +2317,11 @@ p, li { white-space: pre-wrap; }
           <tpc>12</tpc>
           </Note>
         </Chord>
-      <Beam id="33">
+      <Beam id="23">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>33</Beam>
+        <Beam>23</Beam>
         <Note>
           <pitch>55</pitch>
           <tpc>15</tpc>
@@ -2269,7 +2329,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>33</Beam>
+        <Beam>23</Beam>
         <Note>
           <pitch>53</pitch>
           <tpc>13</tpc>
@@ -2277,17 +2337,17 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>33</Beam>
+        <Beam>23</Beam>
         <Note>
           <pitch>51</pitch>
           <tpc>11</tpc>
           </Note>
         </Chord>
-      <Beam id="34">
+      <Beam id="24">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>34</Beam>
+        <Beam>24</Beam>
         <Note>
           <pitch>48</pitch>
           <tpc>14</tpc>
@@ -2295,7 +2355,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>34</Beam>
+        <Beam>24</Beam>
         <Note>
           <pitch>50</pitch>
           <tpc>16</tpc>
@@ -2303,19 +2363,19 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>34</Beam>
+        <Beam>24</Beam>
         <Note>
           <pitch>51</pitch>
           <tpc>11</tpc>
           </Note>
         </Chord>
       </Measure>
-    <Measure number="22">
-      <Beam id="35">
+    <Measure number="21">
+      <Beam id="25">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>35</Beam>
+        <Beam>25</Beam>
         <Note>
           <pitch>50</pitch>
           <tpc>16</tpc>
@@ -2323,7 +2383,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>35</Beam>
+        <Beam>25</Beam>
         <Note>
           <pitch>54</pitch>
           <tpc>20</tpc>
@@ -2331,7 +2391,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>35</Beam>
+        <Beam>25</Beam>
         <Note>
           <pitch>52</pitch>
           <tpc>18</tpc>
@@ -2354,7 +2414,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="23">
+    <Measure number="22">
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -2380,7 +2440,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="24">
+    <Measure number="23">
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -2406,7 +2466,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="25">
+    <Measure number="24">
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -2438,7 +2498,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="26">
+    <Measure number="25">
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -2462,14 +2522,19 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         </Rest>
       </Measure>
-    <Measure number="27">
+    <Measure number="26">
       <Rest>
         <durationType>measure</durationType>
         </Rest>
       </Measure>
-    <Measure number="28">
+    <Measure number="27">
       <Rest>
         <durationType>whole</durationType>
+        </Rest>
+      </Measure>
+    <Measure number="28">
+      <Rest>
+        <durationType>measure</durationType>
         </Rest>
       </Measure>
     <Measure number="29">
@@ -2643,11 +2708,6 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="63">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
-      </Measure>
-    <Measure number="64">
       <Rest>
         <durationType>measure</durationType>
         </Rest>
