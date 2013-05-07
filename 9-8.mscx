@@ -2977,15 +2977,22 @@ p, li { white-space: pre-wrap; }
       </Measure>
     <Measure number="51">
       <Chord>
-        <durationType>eighth</durationType>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
         <Note>
           <pitch>71</pitch>
           <tpc>19</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <durationType>whole</durationType>
-        </Rest>
+      <Chord>
+        <dots>1</dots>
+        <durationType>half</durationType>
+        <Note>
+          <selected>1</selected>
+          <pitch>67</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="52">
       <Rest>
@@ -5889,9 +5896,30 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="51">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>43</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>55</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>53</pitch>
+          <tpc>13</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="52">
       <Rest>
